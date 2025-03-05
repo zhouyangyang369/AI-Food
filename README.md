@@ -17,3 +17,9 @@
 
 ### 总结：
 APP开发流程是一个复杂且多阶段的过程，每个阶段都至关重要。从需求分析到上线发布，再到后续的维护和更新，开发团队需要持续关注用户需求和技术发展，以确保APP能够顺利推出并在市场中获得成功。
+
+[Flutter 从0开始](https://juejin.cn/post/6987258334126538789)
+- [Flutter 技术入门与实战](https://weread.qq.com/web/reader/08032390719ecf6908074c8)
+- [Flutter 从0 基础到APP上线](https://weread.qq.com/web/reader/32e32b707204395b32e51d3)
+- [Flutter 实战入门](https://weread.qq.com/web/reader/6d232eb071eeef576d226b4)
+- [Flutter实战·第二版](https://book.flutterchina.club/)
